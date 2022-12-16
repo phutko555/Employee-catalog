@@ -21,7 +21,7 @@ public class Department {
     @JsonCreator
     public Department(@JsonProperty("id") final Long id,
                     @JsonProperty("fullName") final String name,
-                    @JsonProperty("position") final String location) {
+                    @JsonProperty("location") final String location) {
         this.id = id;
         this.name = name;
         this.location = location;
