@@ -20,7 +20,7 @@ public class Department {
 
     @JsonCreator
     public Department(@JsonProperty("id") final Long id,
-                    @JsonProperty("fullName") final String name,
+                    @JsonProperty("name") final String name,
                     @JsonProperty("location") final String location) {
         this.id = id;
         this.name = name;
