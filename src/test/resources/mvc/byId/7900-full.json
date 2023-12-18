@@ -33,13 +33,13 @@
     },
     "department": {
       "id": 30,
-      "fullName": "SALES",
-      "position": "CHICAGO"
+      "name": "SALES",
+      "location": "CHICAGO"
     }
   },
   "department": {
     "id": 30,
-    "fullName": "SALES",
-    "position": "CHICAGO"
+    "name": "SALES",
+    "location": "CHICAGO"
   }
 }

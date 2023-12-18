@@ -43,19 +43,19 @@
       },
       "department": {
         "id": 20,
-        "fullName": "RESEARCH",
-        "position": "DALLAS"
+        "name": "RESEARCH",
+        "location": "DALLAS"
       }
     },
     "department": {
       "id": 20,
-      "fullName": "RESEARCH",
-      "position": "DALLAS"
+      "name": "RESEARCH",
+      "location": "DALLAS"
     }
   },
   "department": {
     "id": 20,
-    "fullName": "RESEARCH",
-    "position": "DALLAS"
+    "name": "RESEARCH",
+    "location": "DALLAS"
   }
 }
