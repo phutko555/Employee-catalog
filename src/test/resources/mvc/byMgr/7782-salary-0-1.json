@@ -22,14 +22,14 @@
       "manager": null,
       "department": {
         "id": 10,
-        "fullName": "ACCOUNTING",
-        "position": "NEW YORK"
+        "name": "ACCOUNTING",
+        "location": "NEW YORK"
       }
     },
     "department": {
       "id": 10,
-      "fullName": "ACCOUNTING",
-      "position": "NEW YORK"
+      "name": "ACCOUNTING",
+      "location": "NEW YORK"
     }
   }
 ]

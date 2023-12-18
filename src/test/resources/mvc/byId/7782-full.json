@@ -23,7 +23,7 @@
   },
   "department": {
     "id": 10,
-    "fullName": "ACCOUNTING",
-    "position": "NEW YORK"
+    "name": "ACCOUNTING",
+    "location": "NEW YORK"
   }
 }

@@ -35,14 +35,14 @@
       "manager": null,
       "department": {
         "id": 30,
-        "fullName": "SALES",
-        "position": "CHICAGO"
+        "name": "SALES",
+        "location": "CHICAGO"
       }
     },
     "department": {
       "id": 30,
-      "fullName": "SALES",
-      "position": "CHICAGO"
+      "name": "SALES",
+      "location": "CHICAGO"
     }
   },
   {
@@ -68,14 +68,14 @@
       "manager": null,
       "department": {
         "id": 20,
-        "fullName": "RESEARCH",
-        "position": "DALLAS"
+        "name": "RESEARCH",
+        "location": "DALLAS"
       }
     },
     "department": {
       "id": 20,
-      "fullName": "RESEARCH",
-      "position": "DALLAS"
+      "name": "RESEARCH",
+      "location": "DALLAS"
     }
   },
   {
@@ -101,14 +101,14 @@
       "manager": null,
       "department": {
         "id": 10,
-        "fullName": "ACCOUNTING",
-        "position": "NEW YORK"
+        "name": "ACCOUNTING",
+        "location": "NEW YORK"
       }
     },
     "department": {
       "id": 10,
-      "fullName": "ACCOUNTING",
-      "position": "NEW YORK"
+      "name": "ACCOUNTING",
+      "location": "NEW YORK"
     }
   }
 ]
